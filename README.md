@@ -105,7 +105,7 @@ Git, SonarQube
 ## 📫 Contact
 
 - 📧 Email: dillipkutripathy@gmail.com  
-- 💼 LinkedIn: [Add your LinkedIn link here]  
+- 💼 LinkedIn: https://www.linkedin.com/in/dillipkumartripathy
 - 🌐 Portfolio: [Add your portfolio link here]  
 
 ---
