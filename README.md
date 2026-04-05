@@ -1,115 +1,128 @@
 # 👋 Hi, I'm Dillip Kumar Tripathy
 
-### 🚀 Senior Tech Lead | AI/GenAI & Agentic AI Architect | Drupal • Laravel • AWS
+## Senior Tech Lead | Drupal | Laravel | AWS | PHP | GenAI Engineer
 
 📍 Pune, India  
 📧 dillipkutripathy@gmail.com  
+📞 +91-8369816734  
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
 
-Senior Tech Lead with 14+ years of experience architecting and scaling enterprise applications using **Drupal, Laravel, and microservices**.
+I am a **Senior Tech Lead with 14+ years of experience** in designing, developing, and scaling enterprise-grade applications using **Drupal, Laravel, PHP, and microservices architecture**.
 
-💼 Strong expertise in:
-- Backend Architecture & Distributed Systems  
-- Scalable APIs & High-Performance Systems  
-- Cloud Infrastructure (AWS)  
+I specialize in building:
+- Scalable backend systems
+- Distributed architectures
+- High-performance APIs
+- Enterprise CMS platforms
 
-🤖 Currently focused on:
-- **Generative AI (GenAI)**
-- **Agentic AI Systems**
-- Building intelligent, autonomous, context-aware solutions  
-
-I specialize in integrating AI into enterprise platforms for **automation, personalization, and decision-making**.
+In recent years, I have expanded into **Generative AI (GenAI), Agentic AI, and RAG systems**, focusing on building intelligent automation and AI-driven enterprise solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Current Focus
 
-**Backend:**  
-PHP, Laravel, Drupal, Node.js  
-
-**Frontend:**  
-JavaScript (ES6+), Webpack, Vite  
-
-**Cloud & DevOps:**  
-AWS, SQS, Docker, CI/CD  
-
-**Architecture:**  
-Microservices, Distributed Systems, Scalable Applications  
-
-**AI/ML:**  
-Generative AI, Agentic AI, RAG, LLMs  
-
-**Tools:**  
-Git, SonarQube  
+- Generative AI (LLMs, RAG, Agentic AI systems)
+- AI-powered enterprise automation
+- Scalable backend architecture (Laravel + Drupal)
+- Cloud-native system design on AWS
+- Performance optimization at scale
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Tech Stack
 
-### 🔹 AI Enterprise Assistant
-- Built an **LLM-powered automation system** for enterprise workflows  
-- Enabled intelligent query handling and decision support  
-- **Tech:** GenAI, RAG, Laravel, AWS  
-
----
-
-### 🔹 Agentic AI Engine
-- Designed an **autonomous multi-step task execution system**  
-- Implemented intelligent workflows with decision-making capabilities  
-- **Tech:** Agentic AI, Microservices, AWS  
+**Backend:** PHP, Laravel, Drupal, CodeIgniter, Node.js  
+**Architecture:** Microservices, Distributed Systems, REST APIs  
+**Cloud:** AWS, CI/CD, Linux server deployment  
+**AI/ML:** Generative AI, Agentic AI, RAG systems, LLM integrations  
+**Databases:** MySQL, MariaDB  
+**DevOps:** Docker, CI/CD pipelines, performance tuning  
 
 ---
 
-### 🔹 Smart CMS Generator
-- Integrated **AI-driven content generation** into Drupal CMS  
-- Automated content workflows and improved efficiency  
-- **Tech:** Drupal, GenAI, REST APIs  
+## 🤖 AI & Generative AI Experience
+
+- Built LLM-powered applications for enterprise automation
+- Designed Agentic AI systems for autonomous multi-step workflows
+- Implemented RAG-based architectures for context-aware AI responses
+- Integrated AI capabilities into CMS and enterprise platforms (Drupal, Laravel)
 
 ---
 
-### 🔹 Enterprise API Platform
-- Developed **100+ REST APIs** with 30+ integrations  
-- Built scalable backend systems handling high traffic  
-- **Tech:** Laravel, AWS (SQS), MySQL  
+## 💼 Professional Experience
+
+### Senior Software Engineer  
+**Bajaj Finserv Direct Ltd.** | 2021 – Present  
+- Leading enterprise Drupal & Laravel-based systems  
+- Designed scalable backend APIs and distributed architectures  
+- Introduced AI-driven automation in enterprise workflows  
+- Mentoring engineers and driving technical decisions  
 
 ---
 
-## 🧠 AI & Innovation
-
-- Built **LLM-powered applications** for automation  
-- Designed **Agentic AI systems** for autonomous execution  
-- Implemented **RAG-based architectures**  
-- Integrated AI into enterprise CMS platforms  
-
----
-
-## ⚙️ Engineering Practices
-
-- Staging environments & structured deployments  
-- Cloud infrastructure (AWS) management  
-- Latency optimization & performance tuning  
-- Code quality using **SonarQube**  
-- Agile methodologies & CI/CD workflows  
+### Senior Web Developer  
+**Crystal Logic Pvt. Ltd.** | 2015 – 2021  
+- Developed large-scale enterprise web applications  
+- Worked on system architecture and integrations  
+- Built CMS and business-critical platforms  
 
 ---
 
-## 📄 Resume
+### Web Developer  
+**Inflexi Technology Pvt. Ltd.** | 2011 – 2014  
+- Built CMS and eCommerce solutions  
+- Developed backend modules and client-specific systems  
 
-📌 Available on request or can be shared via portfolio  
+---
+
+## 🚀 Key AI Projects
+
+### 🤖 AI Enterprise Assistant
+Automates enterprise workflows using LLM-based intelligence and decision systems.
+
+### ⚙️ Agentic AI Engine
+Autonomous system capable of executing multi-step tasks with reasoning and planning.
+
+### 🧠 Smart CMS Generator
+AI-powered content generation system integrated with Drupal for dynamic content creation.
+
+---
+
+## 🎯 Strengths
+
+- Enterprise system architecture
+- High-scale backend design
+- AI integration in real-world systems
+- Technical leadership & mentoring
+- Performance optimization & scalability
+
+---
+
+## 🎓 Education
+
+- MCA – Punjab Technical University  
+- BA – Utkal University  
+
+---
+
+## 📈 GitHub Goals
+
+- Build AI-powered enterprise projects
+- Share architecture-level repositories
+- Showcase scalable backend systems
+- Contribute to modern AI engineering practices
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: dillipkutripathy@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/dillipkumartripathy
-- 🌐 Portfolio: [Add your portfolio link here]  
+📧 Email: dillipkutripathy@gmail.com  
+📞 Phone: +91-8369816734  
+📍 Location: Pune, India  
 
 ---
 
-## ⭐ Let's Connect
-
-If you're looking for a **Tech Lead / Backend Architect / AI Engineer** who can build scalable systems and integrate AI into real-world applications, feel free to connect!
+💡 *"Building scalable systems that combine engineering excellence with intelligent automation."*
